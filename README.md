@@ -1,6 +1,6 @@
 # Olá, mundo! 👨‍💻🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-artioli/)
 ![Profile Views](https://komarev.com/ghpvc/?username=matheusartioli&color=blue&style=flat)
 
 Olá! Eu sou Matheus Artioli, um futuro desenvolvedor Back-End apaixonado por tecnologia e motivado pela evolução constante.  
