@@ -30,4 +30,4 @@ Este é meu portfólio, onde compartilho meus estudos, projetos e aprendizados!
 Se você quiser bater um papo sobre programação, trocar ideias ou até colaborar em projetos, fique à vontade para me chamar! 😄
 
 📬 Email: *matheus.artioli@outlook.com*  
-🔗 LinkedIn: [linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/matheus_artioli)
+🔗 LinkedIn: [https://www.linkedin.com/in/matheus-artioli/](https://www.linkedin.com/in/matheus_artioli)
