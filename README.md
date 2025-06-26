@@ -1,4 +1,4 @@
-# Olá, mundo! 😺💻
+# Olá, mundo! 👨‍💻🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)
 ![Profile Views](https://komarev.com/ghpvc/?username=matheusartioli&color=blue&style=flat)
@@ -27,7 +27,7 @@ Este é meu portfólio, onde compartilho meus estudos, projetos e aprendizados!
 ---
 
 💬 **Vamos conversar?**  
-Se você quiser bater um papo sobre programação, trocar ideias ou até colaborar em projetos, fique à vontade para me chamar! 😄
+Caso tenha interesse em compartilhar conhecimento, colaborar em projetos ou discutir ideias, será um prazer conversar com você.
 
 📬 Email: *matheus.artioli@outlook.com*  
 🔗 LinkedIn: [https://www.linkedin.com/in/matheus-artioli/](https://www.linkedin.com/in/matheus_artioli)
