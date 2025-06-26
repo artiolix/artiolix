@@ -10,7 +10,7 @@ Este é meu portfólio, onde compartilho meus estudos, projetos e aprendizados!
 
 🧠 **Atualmente:**
 - 🎓 Graduando em *Análise e Desenvolvimento de Sistemas* na **UNINOVE**
-- 💻 Estudando *Java (DIO)* e *Python (Bradesco)*
+- 💻 Estudando *Java (DIO)* e *C# (Bradesco)*
 - 🚀 Focado em Back-End e automação
 - 🎯 Em busca do primeiro estágio na área de TI
 
@@ -19,9 +19,7 @@ Este é meu portfólio, onde compartilho meus estudos, projetos e aprendizados!
 🛠️ **Minhas Habilidades em desenvolvimento:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -30,4 +28,4 @@ Este é meu portfólio, onde compartilho meus estudos, projetos e aprendizados!
 Caso tenha interesse em compartilhar conhecimento, colaborar em projetos ou discutir ideias, será um prazer conversar com você.
 
 📬 Email: *matheus.artioli@outlook.com*  
-🔗 LinkedIn: [https://www.linkedin.com/in/matheus-artioli/](https://www.linkedin.com/in/matheus_artioli)
+🔗 LinkedIn: [https://www.linkedin.com/in/matheus-artioli/](https://www.linkedin.com/in/matheus-artioli/)
