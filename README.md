@@ -10,7 +10,7 @@ Este é meu portfólio, onde compartilho meus estudos, projetos e aprendizados!
 
 🧠 **Atualmente:**
 - 🎓 Graduando em *Análise e Desenvolvimento de Sistemas* na **UNINOVE**
-- 💻 Estudando *Java (DIO)* e *C# (Bradesco)*
+- 💻 Estudando *Java (DIO)* e *C# (Udemy)*
 - 🚀 Focado em Back-End e automação
 - 🎯 Em busca do primeiro estágio na área de TI
 
