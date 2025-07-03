@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/LW1NHlo.png" alt="Banner" />
+  <img src="https://i.imgur.com/bjjddxO.jpeg" alt="Banner" />
 </p>
 
 ---
