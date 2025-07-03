@@ -9,9 +9,9 @@
 
 💻 Estudo C# e estou em busca do meu primeiro estágio como desenvolvedor.
 
-🕓 Dedico meu tempo livre para aprender coisas novas, sobre programação, história e tecnologias modernas do mercado.
+🕓 Dedico meu tempo livre para aprender coisas novas sobre programação, história e tecnologias do mercado.
 
-⚽ Torcedor do Palmeiras, também gosto de ler Harry Potter e assistir One Piece!
+📚 Gosto de ler livros e assistir One Piece!
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📫 Contato
 
-[![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-0072C6?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus.artioli@outlook.com)](mailto:matheus.artioli@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-OUTLOOK-0072C6?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus.artioli@outlook.com)](mailto:matheus.artioli@outlook.com)  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-artioli/)](https://www.linkedin.com/in/matheus-artioli/)
 
 ---
